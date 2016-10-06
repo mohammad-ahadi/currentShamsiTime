@@ -1,5 +1,5 @@
 
-from api.shamsi import ShamsiFormatter
+from shamsi import ShamsiFormatter
 
 x = ShamsiFormatter()
 print(x.getDay())
